@@ -1,0 +1,9 @@
+.button {
+    width: 150px;
+    height: 150px;
+    font-size:30px;
+  }
+  
+  .board-row{
+    display: flex;
+  }
